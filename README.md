@@ -44,3 +44,4 @@ The analysis includes 7 key visualizations:
 - Build predictive model for GPA
 - Include demographic factors
 - Compare across different institutions
+
